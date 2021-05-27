@@ -4,4 +4,5 @@ Here I take 130,000 news articles containing either *climate change* or *global 
 
 Indeed the discourse may vary greatly. Sometimes 1 or 2 sentences appear in an article mainly about government elections, some other times the whole articles is about global warming.
 
-**NOTE**: pyLDAvis.display() does not report the output on the notebook.
+**NOTE**: pyLDAvis.display() does not report the output on the notebook. What you see is going to be the following:
+![output](pyLDAvis.png)
